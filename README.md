@@ -24,7 +24,7 @@ tinyproxy占用较小，C语言编程，效率高，轻巧不卡机
 
 1.下载
 
-wget https://github.com/M-Hun/tinyproxy/releases/download/0.1/Onekey.sh
+wget https://github.com/fengjingwang/tinyproxy/releases/download/0.1/Onekey.sh
 
 PS：显示错误的执行yum -y install wget，然后再执行上面的指令
 
@@ -36,11 +36,11 @@ bash Onekey.sh
 
 1.下载（Linux x64）
 
-wget https://github.com/M-Hun/tinyproxy/releases/download/X64/tinyproxy.zip
+wget https://github.com/fengjingwang/tinyproxy/releases/download/X64/tinyproxy.zip
 
 （Linux x86）32位系统下这个
 
-wget https://github.com/M-Hun/tinyproxy/releases/download/X86/tinyproxy.zip
+wget https://github.com/fengjingwang/tinyproxy/releases/download/X86/tinyproxy.zip
 
 或者直接下载附件上传到服务器
 
@@ -60,7 +60,7 @@ chmod 0777 tinyproxy
 
 手机上的模式用我发的这个就行，模式样板下载链接：
 
-https://github.com/M-Hun/tinyproxy/releases/download/mode/default.conf
+https://github.com/fengjingwang/tinyproxy/releases/download/mode/default.conf
 
 默认验证头为yaohuo
 
